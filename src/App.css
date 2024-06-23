@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.wrapper{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid rgba(128, 128, 128, 0.188);
+    background-color: rgba(253, 236, 204, 0.384);
+    gap: 50px;
+}
+
+h3{
+    color: rgb(100, 100, 100);
+}
+
+
+
